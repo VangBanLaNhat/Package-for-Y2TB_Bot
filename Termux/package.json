@@ -22,6 +22,7 @@
   },
   "homepage": "https://github.com/VangBanLaNhat/vangbanlanhat-bot#readme",
   "dependencies": {
+    "fs-extra": "",
     "adm-zip": "^0.5.9",
     "axios": "^0.21.4",
     "dotenv": "^10.0.0",
