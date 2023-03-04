@@ -163,10 +163,10 @@
     "ver": "0.0.1"
   },
   {
-    "file": "gpt.js",
+    "file": "chatgpt.js",
     "username": "HerokeyVN",
     "author": "HerokeyVN",
-    "vi": "Trò chuyện với ChatGPT",
+    "vi": "Chat với ChatGPT",
     "en": "Chat with ChatGPT",
     "ver": "0.0.1"
   },
